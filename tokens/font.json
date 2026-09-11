@@ -1,0 +1,10 @@
+{
+  "Myanmar": {
+    "$value": "{font-family.Myanmar_Khyay}",
+    "$type": "string"
+  },
+  "Noto_Sans_KR": {
+    "$value": "{font-family.Noto_Sans_KR}",
+    "$type": "string"
+  }
+}
