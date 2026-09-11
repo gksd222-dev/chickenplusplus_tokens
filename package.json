@@ -1,0 +1,25 @@
+{
+  "name": "chickenplusplus_tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"node build-tokens.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gksd222-dev/chickenplusplus_tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gksd222-dev/chickenplusplus_tokens/issues"
+  },
+  "homepage": "https://github.com/gksd222-dev/chickenplusplus_tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^5.5.3"
+  }
+}
